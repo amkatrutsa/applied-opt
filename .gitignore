@@ -2,4 +2,7 @@
 *.out
 *.log
 *.gz
+*.nav
+*.snm
+*.toc
 .ipynb_checkpoints/
