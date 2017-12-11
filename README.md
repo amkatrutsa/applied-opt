@@ -8,3 +8,4 @@
 3. [Introducton to numerical methods](./Num_methods_intro.ipynb)
 4. [Descent methods and gradient descent](GD.ipynb)
 3. [Newton method and quasi-Newton methods](Newton&QuasiNewton.ipynb)
+4. [Interior point methods](InteriorPoint.ipynb)
